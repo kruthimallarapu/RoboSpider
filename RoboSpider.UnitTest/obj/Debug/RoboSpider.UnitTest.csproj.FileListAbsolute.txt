@@ -1,0 +1,16 @@
+D:\Data\Examples\Robo_FromNachi\RoboSpider\RoboSpider.UnitTest\bin\Debug\RoboSpider.UnitTest.dll
+D:\Data\Examples\Robo_FromNachi\RoboSpider\RoboSpider.UnitTest\bin\Debug\RoboSpider.UnitTest.pdb
+D:\Data\Examples\Robo_FromNachi\RoboSpider\RoboSpider.UnitTest\bin\Debug\Castle.Core.dll
+D:\Data\Examples\Robo_FromNachi\RoboSpider\RoboSpider.UnitTest\bin\Debug\NSubstitute.dll
+D:\Data\Examples\Robo_FromNachi\RoboSpider\RoboSpider.UnitTest\bin\Debug\nunit.framework.dll
+D:\Data\Examples\Robo_FromNachi\RoboSpider\RoboSpider.UnitTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Data\Examples\Robo_FromNachi\RoboSpider\RoboSpider.UnitTest\bin\Debug\Castle.Core.xml
+D:\Data\Examples\Robo_FromNachi\RoboSpider\RoboSpider.UnitTest\bin\Debug\NSubstitute.xml
+D:\Data\Examples\Robo_FromNachi\RoboSpider\RoboSpider.UnitTest\bin\Debug\nunit.framework.pdb
+D:\Data\Examples\Robo_FromNachi\RoboSpider\RoboSpider.UnitTest\bin\Debug\nunit.framework.xml
+D:\Data\Examples\Robo_FromNachi\RoboSpider\RoboSpider.UnitTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Data\Examples\Robo_FromNachi\RoboSpider\RoboSpider.UnitTest\obj\Debug\RoboSpider.UnitTest.dll
+D:\Data\Examples\Robo_FromNachi\RoboSpider\RoboSpider.UnitTest\obj\Debug\RoboSpider.UnitTest.pdb
+D:\Data\Examples\Robo_FromNachi\RoboSpider\RoboSpider.UnitTest\obj\Debug\RoboSpider.UnitTest.csprojResolveAssemblyReference.cache
+D:\Data\Examples\Robo_FromNachi\RoboSpider\RoboSpider.UnitTest\bin\Debug\RoboSpider.exe
+D:\Data\Examples\Robo_FromNachi\RoboSpider\RoboSpider.UnitTest\bin\Debug\RoboSpider.pdb

@@ -1,0 +1,6 @@
+D:\Data\Examples\Robo_FromNachi\RoboSpider\RoboSpiderNew\obj\Debug\RoboSpiderNew.csprojResolveAssemblyReference.cache
+D:\Data\Examples\Robo_FromNachi\RoboSpider\RoboSpiderNew\bin\Debug\RoboSpiderNew.exe.config
+D:\Data\Examples\Robo_FromNachi\RoboSpider\RoboSpiderNew\bin\Debug\RoboSpiderNew.exe
+D:\Data\Examples\Robo_FromNachi\RoboSpider\RoboSpiderNew\bin\Debug\RoboSpiderNew.pdb
+D:\Data\Examples\Robo_FromNachi\RoboSpider\RoboSpiderNew\obj\Debug\RoboSpiderNew.exe
+D:\Data\Examples\Robo_FromNachi\RoboSpider\RoboSpiderNew\obj\Debug\RoboSpiderNew.pdb
